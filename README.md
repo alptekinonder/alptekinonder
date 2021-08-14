@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Alptekin Önder</h1>
 <h3 align="center">A passionate Computer Engineer from Turkey</h3>
 
-- 🔭 I’m currently working on [SimpleBugTracker](main.d3ghgxvhybio5j.amplifyapp.com/)
+- 🔭 I’m currently working on **SimpleBugTracker** for practising both backend and frontend development.
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 👯 I’m looking to collaborate on [.](.)
+- 📝 My projects are available at github
 
-- 🤝 I’m looking for help with [.](.)
+- 👨‍💻 **Simple Bug Tracker** (ongoing)
+Java springboot is used for backend. React.js used for frontend. Backend deployed to amazon aws ec2. Frontend deployed to amazon aws amplify. [Simple Bug Tracker demo site] (main.d3ghgxvhybio5j.amplifyapp.com)
 
-- 👨‍💻 My projects are available at github
--**Simple Bug Tracker** Simple Bug Tracker Project(ongoing) 
-Java springboot is used for backend. React.js used for frontend. Backend deployed to amazon aws ec2. Frontend deployed to amazon aws amplify
+- 🤝 **VISP Senior Design Project** AR and Image recognition project with using Unity, Vuforia, Firebase technologies. Recognized objects linked to media files and displayed in AR with mobile phones.(Group) [Visp Project Video](https://www.youtube.com/watch?v=cmi2AOZ9f8U)
 
-- 📝 I regularly write articles on [.](.)
+- 🤝 **Seven Wonders Online Board Game** Online version of board game Seven Wonders. Both client and server sides coded with java. JavaFX is used for client-side UI and backend deployed to amazon aws servers. (Group) [Seven Wonders Video](https://www.youtube.com/watch?v=LeRUCMTKMqE)
 
-- 💬 Ask me about **.**
+- 🤝 **Android Project: First year java project, “Bilconnect”** Android Project: First year java project, “Bilconnect”: an android application to raise awareness about university problems. Bilkent University members can share their complaints and announcements. In this project Android Studio and Firebase database is used. (Group) 
+
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **alptekinonderr@gmail.com**
 
