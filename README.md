@@ -8,7 +8,7 @@
 - 📝 My projects are available at github
 
 - 👨‍💻 **Simple Bug Tracker** (ongoing)
-Java springboot is used for backend. React.js used for frontend. Backend deployed to amazon aws ec2. Frontend deployed to amazon aws amplify. [Simple Bug Tracker demo site] (main.d3ghgxvhybio5j.amplifyapp.com)
+Java springboot is used for backend. React.js used for frontend. Backend deployed to amazon aws ec2. Frontend deployed to amazon aws amplify. [Simple Bug Tracker demo site] (http://main.d3ghgxvhybio5j.amplifyapp.com)
 
 - 🤝 **VISP Senior Design Project** AR and Image recognition project with using Unity, Vuforia, Firebase technologies. Recognized objects linked to media files and displayed in AR with mobile phones.(Group) [Visp Project Video](https://www.youtube.com/watch?v=cmi2AOZ9f8U)
 
@@ -20,7 +20,7 @@ Java springboot is used for backend. React.js used for frontend. Backend deploye
 
 - 📫 How to reach me **alptekinonderr@gmail.com**
 
-- 📄 Know about my experiences [.](.)
+- 📄 Know about my experiences [CV](https://github.com/alptekinonder/alptekinonder/blob/main/AlptkeinOnder.pdf)
 
 - ⚡ Fun fact **I never code twice**
 
