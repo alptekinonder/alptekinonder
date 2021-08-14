@@ -9,7 +9,9 @@
 
 - 🤝 I’m looking for help with [.](.)
 
-- 👨‍💻 All of my projects are available at [.](.)
+- 👨‍💻 My projects are available at github
+-**Simple Bug Tracker** Simple Bug Tracker Project(ongoing) 
+Java springboot is used for backend. React.js used for frontend. Backend deployed to amazon aws ec2. Frontend deployed to amazon aws amplify
 
 - 📝 I regularly write articles on [.](.)
 
@@ -19,7 +21,7 @@
 
 - 📄 Know about my experiences [.](.)
 
-- ⚡ Fun fact **.**
+- ⚡ Fun fact **I never code twice**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
