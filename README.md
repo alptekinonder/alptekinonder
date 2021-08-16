@@ -14,7 +14,7 @@ Java springboot is used for backend. React.js used for frontend. Backend deploye
 
 - 🤝 **Seven Wonders Online Board Game** Online version of board game Seven Wonders. Both client and server side coded with java. JavaFX is used for client-side UI and backend deployed to amazon aws servers. (Group) [Seven Wonders Video](https://www.youtube.com/watch?v=LeRUCMTKMqE)
 
-- 🤝 **Android Project: First year java project, “Bilconnect”** Android Project: First year java project, “Bilconnect”: an android application to raise awareness about university problems. Bilkent University members can share their complaints and announcements. In this project Android Studio and Firebase database is used. (Group) 
+- 🤝 **Android Project: First year java project, “Bilconnect”** Android Project: An android application to raise awareness about university problems. Bilkent University members can share their complaints and announcements. In this project Android Studio and Firebase database is used. (Group) 
 
 - 💬 Ask me about **anything**
 
