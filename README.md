@@ -20,7 +20,7 @@ Java springboot is used for backend. React.js used for frontend. Backend deploye
 
 - 📫 How to reach me **alptekinonderr@gmail.com**
 
-- 📄 Know about my experiences [CV](https://github.com/alptekinonder/alptekinonder/blob/main/AlptkeinOnder.pdf)
+- 📄 Know about my experiences [CV](https://github.com/alptekinonder/alptekinonder/blob/main/AlptekinOnder.pdf)
 
 - ⚡
 
